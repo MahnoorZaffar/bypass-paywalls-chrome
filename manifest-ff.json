@@ -106,7 +106,7 @@
   "icons": {
     "128": "src/icon/bypass.png"
   },
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Bypass Paywalls",
   "short_name": "Bypass Paywall",
   "options_ui": {
